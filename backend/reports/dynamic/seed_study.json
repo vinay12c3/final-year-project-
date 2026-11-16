@@ -1,0 +1,16 @@
+{
+  "description": "Bi-GRU words model, test accuracy over different random seeds (each seed also changes the train/test split)",
+  "accuracy_by_seed": {
+    "1": 0.9722,
+    "2": 0.9722,
+    "3": 0.8889,
+    "4": 0.9444,
+    "5": 1.0,
+    "42": 0.9444
+  },
+  "mean": 0.9537,
+  "std": 0.0379,
+  "min": 0.8889,
+  "max": 1.0,
+  "n_runs": 6
+}

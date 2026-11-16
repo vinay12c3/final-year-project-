@@ -1,0 +1,670 @@
+{
+ "sentences": [
+  {
+   "label": "s_are_you_free_today",
+   "text": "Are you free today?",
+   "video": "/clips/sentences/s_are_you_free_today.mp4",
+   "poster": "/clips/sentences/s_are_you_free_today.jpg"
+  },
+  {
+   "label": "s_are_you_hiding_something",
+   "text": "Are you hiding something?",
+   "video": "/clips/sentences/s_are_you_hiding_something.mp4",
+   "poster": "/clips/sentences/s_are_you_hiding_something.jpg"
+  },
+  {
+   "label": "s_bring_water_for_me",
+   "text": "Bring water for me.",
+   "video": "/clips/sentences/s_bring_water_for_me.mp4",
+   "poster": "/clips/sentences/s_bring_water_for_me.jpg"
+  },
+  {
+   "label": "s_can_i_help_you",
+   "text": "Can I help you?",
+   "video": "/clips/sentences/s_can_i_help_you.mp4",
+   "poster": "/clips/sentences/s_can_i_help_you.jpg"
+  },
+  {
+   "label": "s_can_you_repeat_that_please",
+   "text": "Can you repeat that please?",
+   "video": "/clips/sentences/s_can_you_repeat_that_please.mp4",
+   "poster": "/clips/sentences/s_can_you_repeat_that_please.jpg"
+  },
+  {
+   "label": "s_comb_your_hair",
+   "text": "Comb your hair.",
+   "video": "/clips/sentences/s_comb_your_hair.mp4",
+   "poster": "/clips/sentences/s_comb_your_hair.jpg"
+  },
+  {
+   "label": "s_congratulations",
+   "text": "Congratulations.",
+   "video": "/clips/sentences/s_congratulations.mp4",
+   "poster": "/clips/sentences/s_congratulations.jpg"
+  },
+  {
+   "label": "s_could_you_please_talk_slower",
+   "text": "Could you please talk slower?",
+   "video": "/clips/sentences/s_could_you_please_talk_slower.mp4",
+   "poster": "/clips/sentences/s_could_you_please_talk_slower.jpg"
+  },
+  {
+   "label": "s_do_me_a_favour",
+   "text": "Do me a favour.",
+   "video": "/clips/sentences/s_do_me_a_favour.mp4",
+   "poster": "/clips/sentences/s_do_me_a_favour.jpg"
+  },
+  {
+   "label": "s_do_not_abuse_him",
+   "text": "Do not abuse him.",
+   "video": "/clips/sentences/s_do_not_abuse_him.mp4",
+   "poster": "/clips/sentences/s_do_not_abuse_him.jpg"
+  },
+  {
+   "label": "s_do_not_be_stubborn",
+   "text": "Do not be stubborn.",
+   "video": "/clips/sentences/s_do_not_be_stubborn.mp4",
+   "poster": "/clips/sentences/s_do_not_be_stubborn.jpg"
+  },
+  {
+   "label": "s_do_not_hurt_me",
+   "text": "Do not hurt me.",
+   "video": "/clips/sentences/s_do_not_hurt_me.mp4",
+   "poster": "/clips/sentences/s_do_not_hurt_me.jpg"
+  },
+  {
+   "label": "s_do_not_make_me_angry",
+   "text": "Do not make me angry.",
+   "video": "/clips/sentences/s_do_not_make_me_angry.mp4",
+   "poster": "/clips/sentences/s_do_not_make_me_angry.jpg"
+  },
+  {
+   "label": "s_do_not_take_it_to_the_heart",
+   "text": "Do not take it to the heart.",
+   "video": "/clips/sentences/s_do_not_take_it_to_the_heart.mp4",
+   "poster": "/clips/sentences/s_do_not_take_it_to_the_heart.jpg"
+  },
+  {
+   "label": "s_do_not_worry",
+   "text": "Do not worry.",
+   "video": "/clips/sentences/s_do_not_worry.mp4",
+   "poster": "/clips/sentences/s_do_not_worry.jpg"
+  },
+  {
+   "label": "s_do_you_need_something",
+   "text": "Do you need something?",
+   "video": "/clips/sentences/s_do_you_need_something.mp4",
+   "poster": "/clips/sentences/s_do_you_need_something.jpg"
+  },
+  {
+   "label": "s_go_and_sleep",
+   "text": "Go and sleep.",
+   "video": "/clips/sentences/s_go_and_sleep.mp4",
+   "poster": "/clips/sentences/s_go_and_sleep.jpg"
+  },
+  {
+   "label": "s_had_your_food",
+   "text": "Had your food?",
+   "video": "/clips/sentences/s_had_your_food.mp4",
+   "poster": "/clips/sentences/s_had_your_food.jpg"
+  },
+  {
+   "label": "s_he_came_by_train",
+   "text": "He came by train.",
+   "video": "/clips/sentences/s_he_came_by_train.mp4",
+   "poster": "/clips/sentences/s_he_came_by_train.jpg"
+  },
+  {
+   "label": "s_he_is_going_into_the_room",
+   "text": "He is going into the room.",
+   "video": "/clips/sentences/s_he_is_going_into_the_room.mp4",
+   "poster": "/clips/sentences/s_he_is_going_into_the_room.jpg"
+  },
+  {
+   "label": "s_he_is_on_the_way",
+   "text": "He is on the way.",
+   "video": "/clips/sentences/s_he_is_on_the_way.mp4",
+   "poster": "/clips/sentences/s_he_is_on_the_way.jpg"
+  },
+  {
+   "label": "s_he_would_be_coming_today",
+   "text": "He would be coming today.",
+   "video": "/clips/sentences/s_he_would_be_coming_today.mp4",
+   "poster": "/clips/sentences/s_he_would_be_coming_today.jpg"
+  },
+  {
+   "label": "s_he_she_is_my_friend",
+   "text": "He/she is my friend.",
+   "video": "/clips/sentences/s_he_she_is_my_friend.mp4",
+   "poster": "/clips/sentences/s_he_she_is_my_friend.jpg"
+  },
+  {
+   "label": "s_help_me",
+   "text": "Help me.",
+   "video": "/clips/sentences/s_help_me.mp4",
+   "poster": "/clips/sentences/s_help_me.jpg"
+  },
+  {
+   "label": "s_hi_how_are_you",
+   "text": "Hi, how are you?",
+   "video": "/clips/sentences/s_hi_how_are_you.mp4",
+   "poster": "/clips/sentences/s_hi_how_are_you.jpg"
+  },
+  {
+   "label": "s_how_are_things",
+   "text": "How are things?",
+   "video": "/clips/sentences/s_how_are_things.mp4",
+   "poster": "/clips/sentences/s_how_are_things.jpg"
+  },
+  {
+   "label": "s_how_can_i_help_you",
+   "text": "How can I help you?",
+   "video": "/clips/sentences/s_how_can_i_help_you.mp4",
+   "poster": "/clips/sentences/s_how_can_i_help_you.jpg"
+  },
+  {
+   "label": "s_how_can_i_trust_you",
+   "text": "How can I trust you?",
+   "video": "/clips/sentences/s_how_can_i_trust_you.mp4",
+   "poster": "/clips/sentences/s_how_can_i_trust_you.jpg"
+  },
+  {
+   "label": "s_how_dare_you",
+   "text": "How dare you?",
+   "video": "/clips/sentences/s_how_dare_you.mp4",
+   "poster": "/clips/sentences/s_how_dare_you.jpg"
+  },
+  {
+   "label": "s_how_old_are_you",
+   "text": "How old are you?",
+   "video": "/clips/sentences/s_how_old_are_you.mp4",
+   "poster": "/clips/sentences/s_how_old_are_you.jpg"
+  },
+  {
+   "label": "s_i_am_age",
+   "text": "I am ___ years old.",
+   "video": "/clips/sentences/s_i_am_age.mp4",
+   "poster": "/clips/sentences/s_i_am_age.jpg"
+  },
+  {
+   "label": "s_i_am_afraid_of_that",
+   "text": "I am afraid of that.",
+   "video": "/clips/sentences/s_i_am_afraid_of_that.mp4",
+   "poster": "/clips/sentences/s_i_am_afraid_of_that.jpg"
+  },
+  {
+   "label": "s_i_am_crying",
+   "text": "I am crying.",
+   "video": "/clips/sentences/s_i_am_crying.mp4",
+   "poster": "/clips/sentences/s_i_am_crying.jpg"
+  },
+  {
+   "label": "s_i_am_feeling_bored",
+   "text": "I am feeling bored.",
+   "video": "/clips/sentences/s_i_am_feeling_bored.mp4",
+   "poster": "/clips/sentences/s_i_am_feeling_bored.jpg"
+  },
+  {
+   "label": "s_i_am_feeling_cold",
+   "text": "I am feeling cold.",
+   "video": "/clips/sentences/s_i_am_feeling_cold.mp4",
+   "poster": "/clips/sentences/s_i_am_feeling_cold.jpg"
+  },
+  {
+   "label": "s_i_am_fine_thank_you_sir",
+   "text": "I am fine. Thank you, sir.",
+   "video": "/clips/sentences/s_i_am_fine_thank_you_sir.mp4",
+   "poster": "/clips/sentences/s_i_am_fine_thank_you_sir.jpg"
+  },
+  {
+   "label": "s_i_am_hungry",
+   "text": "I am hungry.",
+   "video": "/clips/sentences/s_i_am_hungry.mp4",
+   "poster": "/clips/sentences/s_i_am_hungry.jpg"
+  },
+  {
+   "label": "s_i_am_in_dilemma_what_to_do",
+   "text": "I am in dilemma what to do.",
+   "video": "/clips/sentences/s_i_am_in_dilemma_what_to_do.mp4",
+   "poster": "/clips/sentences/s_i_am_in_dilemma_what_to_do.jpg"
+  },
+  {
+   "label": "s_i_am_not_really_sure",
+   "text": "I am not really sure.",
+   "video": "/clips/sentences/s_i_am_not_really_sure.mp4",
+   "poster": "/clips/sentences/s_i_am_not_really_sure.jpg"
+  },
+  {
+   "label": "s_i_am_really_grateful",
+   "text": "I am really grateful.",
+   "video": "/clips/sentences/s_i_am_really_grateful.mp4",
+   "poster": "/clips/sentences/s_i_am_really_grateful.jpg"
+  },
+  {
+   "label": "s_i_am_sitting_in_the_class",
+   "text": "I am sitting in the class.",
+   "video": "/clips/sentences/s_i_am_sitting_in_the_class.mp4",
+   "poster": "/clips/sentences/s_i_am_sitting_in_the_class.jpg"
+  },
+  {
+   "label": "s_i_am_so_sorry_to_hear_that",
+   "text": "I am so sorry to hear that.",
+   "video": "/clips/sentences/s_i_am_so_sorry_to_hear_that.mp4",
+   "poster": "/clips/sentences/s_i_am_so_sorry_to_hear_that.jpg"
+  },
+  {
+   "label": "s_i_am_suffering_from_fever",
+   "text": "I am suffering from fever.",
+   "video": "/clips/sentences/s_i_am_suffering_from_fever.mp4",
+   "poster": "/clips/sentences/s_i_am_suffering_from_fever.jpg"
+  },
+  {
+   "label": "s_i_am_tired",
+   "text": "I am tired.",
+   "video": "/clips/sentences/s_i_am_tired.mp4",
+   "poster": "/clips/sentences/s_i_am_tired.jpg"
+  },
+  {
+   "label": "s_i_am_very_happy",
+   "text": "I am very happy.",
+   "video": "/clips/sentences/s_i_am_very_happy.mp4",
+   "poster": "/clips/sentences/s_i_am_very_happy.jpg"
+  },
+  {
+   "label": "s_i_can_not_help_you_there",
+   "text": "I can not help you there.",
+   "video": "/clips/sentences/s_i_can_not_help_you_there.mp4",
+   "poster": "/clips/sentences/s_i_can_not_help_you_there.jpg"
+  },
+  {
+   "label": "s_i_do_not_agree",
+   "text": "I do not agree.",
+   "video": "/clips/sentences/s_i_do_not_agree.mp4",
+   "poster": "/clips/sentences/s_i_do_not_agree.jpg"
+  },
+  {
+   "label": "s_i_do_not_like_it",
+   "text": "I do not like it.",
+   "video": "/clips/sentences/s_i_do_not_like_it.mp4",
+   "poster": "/clips/sentences/s_i_do_not_like_it.jpg"
+  },
+  {
+   "label": "s_i_do_not_mean_it",
+   "text": "I do not mean it.",
+   "video": "/clips/sentences/s_i_do_not_mean_it.mp4",
+   "poster": "/clips/sentences/s_i_do_not_mean_it.jpg"
+  },
+  {
+   "label": "s_i_dont_agree",
+   "text": "I don't agree.",
+   "video": "/clips/sentences/s_i_dont_agree.mp4",
+   "poster": "/clips/sentences/s_i_dont_agree.jpg"
+  },
+  {
+   "label": "s_i_enjoyed_a_lot",
+   "text": "I enjoyed a lot.",
+   "video": "/clips/sentences/s_i_enjoyed_a_lot.mp4",
+   "poster": "/clips/sentences/s_i_enjoyed_a_lot.jpg"
+  },
+  {
+   "label": "s_i_got_hurt",
+   "text": "I got hurt.",
+   "video": "/clips/sentences/s_i_got_hurt.mp4",
+   "poster": "/clips/sentences/s_i_got_hurt.jpg"
+  },
+  {
+   "label": "s_i_like_you_i_love_you",
+   "text": "I like you, I love you.",
+   "video": "/clips/sentences/s_i_like_you_i_love_you.mp4",
+   "poster": "/clips/sentences/s_i_like_you_i_love_you.jpg"
+  },
+  {
+   "label": "s_i_need_water",
+   "text": "I need water.",
+   "video": "/clips/sentences/s_i_need_water.mp4",
+   "poster": "/clips/sentences/s_i_need_water.jpg"
+  },
+  {
+   "label": "s_i_promise",
+   "text": "I promise.",
+   "video": "/clips/sentences/s_i_promise.mp4",
+   "poster": "/clips/sentences/s_i_promise.jpg"
+  },
+  {
+   "label": "s_i_really_appreciate_it",
+   "text": "I really appreciate it.",
+   "video": "/clips/sentences/s_i_really_appreciate_it.mp4",
+   "poster": "/clips/sentences/s_i_really_appreciate_it.jpg"
+  },
+  {
+   "label": "s_i_somehow_got_to_know_about_it",
+   "text": "I somehow got to know about it.",
+   "video": "/clips/sentences/s_i_somehow_got_to_know_about_it.mp4",
+   "poster": "/clips/sentences/s_i_somehow_got_to_know_about_it.jpg"
+  },
+  {
+   "label": "s_i_was_stopped_by_some_one",
+   "text": "I was stopped by some one.",
+   "video": "/clips/sentences/s_i_was_stopped_by_some_one.mp4",
+   "poster": "/clips/sentences/s_i_was_stopped_by_some_one.jpg"
+  },
+  {
+   "label": "s_it_does_not_make_any_difference_to_me",
+   "text": "It does not make any difference to me.",
+   "video": "/clips/sentences/s_it_does_not_make_any_difference_to_me.mp4",
+   "poster": "/clips/sentences/s_it_does_not_make_any_difference_to_me.jpg"
+  },
+  {
+   "label": "s_it_was_nice_chatting_with_you",
+   "text": "It was nice chatting with you.",
+   "video": "/clips/sentences/s_it_was_nice_chatting_with_you.mp4",
+   "poster": "/clips/sentences/s_it_was_nice_chatting_with_you.jpg"
+  },
+  {
+   "label": "s_let_him_take_time",
+   "text": "Let him take time.",
+   "video": "/clips/sentences/s_let_him_take_time.mp4",
+   "poster": "/clips/sentences/s_let_him_take_time.jpg"
+  },
+  {
+   "label": "s_my_name_is_xxxxxxxx",
+   "text": "My name is ___",
+   "video": "/clips/sentences/s_my_name_is_xxxxxxxx.mp4",
+   "poster": "/clips/sentences/s_my_name_is_xxxxxxxx.jpg"
+  },
+  {
+   "label": "s_nice_to_meet_you",
+   "text": "Nice to meet you.",
+   "video": "/clips/sentences/s_nice_to_meet_you.mp4",
+   "poster": "/clips/sentences/s_nice_to_meet_you.jpg"
+  },
+  {
+   "label": "s_no_need_to_worry_dont_worry",
+   "text": "No need to worry, don't worry.",
+   "video": "/clips/sentences/s_no_need_to_worry_dont_worry.mp4",
+   "poster": "/clips/sentences/s_no_need_to_worry_dont_worry.jpg"
+  },
+  {
+   "label": "s_now_onwards_he_will_never_hurt_you",
+   "text": "Now onwards he will never hurt you.",
+   "video": "/clips/sentences/s_now_onwards_he_will_never_hurt_you.mp4",
+   "poster": "/clips/sentences/s_now_onwards_he_will_never_hurt_you.jpg"
+  },
+  {
+   "label": "s_pour_some_more_water_into_the_glass",
+   "text": "Pour some more water into the glass.",
+   "video": "/clips/sentences/s_pour_some_more_water_into_the_glass.mp4",
+   "poster": "/clips/sentences/s_pour_some_more_water_into_the_glass.jpg"
+  },
+  {
+   "label": "s_prepare_the_bed",
+   "text": "Prepare the bed.",
+   "video": "/clips/sentences/s_prepare_the_bed.mp4",
+   "poster": "/clips/sentences/s_prepare_the_bed.jpg"
+  },
+  {
+   "label": "s_serve_the_food",
+   "text": "Serve the food.",
+   "video": "/clips/sentences/s_serve_the_food.mp4",
+   "poster": "/clips/sentences/s_serve_the_food.jpg"
+  },
+  {
+   "label": "s_shall_we_go_outside",
+   "text": "Shall we go outside?",
+   "video": "/clips/sentences/s_shall_we_go_outside.mp4",
+   "poster": "/clips/sentences/s_shall_we_go_outside.jpg"
+  },
+  {
+   "label": "s_speak_softly",
+   "text": "Speak softly.",
+   "video": "/clips/sentences/s_speak_softly.mp4",
+   "poster": "/clips/sentences/s_speak_softly.jpg"
+  },
+  {
+   "label": "s_take_care_of_yourself",
+   "text": "Take care of yourself.",
+   "video": "/clips/sentences/s_take_care_of_yourself.mp4",
+   "poster": "/clips/sentences/s_take_care_of_yourself.jpg"
+  },
+  {
+   "label": "s_tell_me_truth",
+   "text": "Tell me truth.",
+   "video": "/clips/sentences/s_tell_me_truth.mp4",
+   "poster": "/clips/sentences/s_tell_me_truth.jpg"
+  },
+  {
+   "label": "s_thank_you_so_much",
+   "text": "Thank you so much.",
+   "video": "/clips/sentences/s_thank_you_so_much.mp4",
+   "poster": "/clips/sentences/s_thank_you_so_much.jpg"
+  },
+  {
+   "label": "s_that_is_so_kind_of_you",
+   "text": "That is so kind of you.",
+   "video": "/clips/sentences/s_that_is_so_kind_of_you.mp4",
+   "poster": "/clips/sentences/s_that_is_so_kind_of_you.jpg"
+  },
+  {
+   "label": "s_this_place_is_beautiful",
+   "text": "This place is beautiful.",
+   "video": "/clips/sentences/s_this_place_is_beautiful.mp4",
+   "poster": "/clips/sentences/s_this_place_is_beautiful.jpg"
+  },
+  {
+   "label": "s_try_to_understand",
+   "text": "Try to understand.",
+   "video": "/clips/sentences/s_try_to_understand.mp4",
+   "poster": "/clips/sentences/s_try_to_understand.jpg"
+  },
+  {
+   "label": "s_turn_on_light_turn_off_light",
+   "text": "Turn on the light / turn off the light.",
+   "video": "/clips/sentences/s_turn_on_light_turn_off_light.mp4",
+   "poster": "/clips/sentences/s_turn_on_light_turn_off_light.jpg"
+  },
+  {
+   "label": "s_we_are_all_with_you",
+   "text": "We are all with you.",
+   "video": "/clips/sentences/s_we_are_all_with_you.mp4",
+   "poster": "/clips/sentences/s_we_are_all_with_you.jpg"
+  },
+  {
+   "label": "s_wear_the_shirt",
+   "text": "Wear the shirt.",
+   "video": "/clips/sentences/s_wear_the_shirt.mp4",
+   "poster": "/clips/sentences/s_wear_the_shirt.jpg"
+  },
+  {
+   "label": "s_what_are_you_doing",
+   "text": "What are you doing?",
+   "video": "/clips/sentences/s_what_are_you_doing.mp4",
+   "poster": "/clips/sentences/s_what_are_you_doing.jpg"
+  },
+  {
+   "label": "s_what_did_you_tell_him",
+   "text": "What did you tell him?",
+   "video": "/clips/sentences/s_what_did_you_tell_him.mp4",
+   "poster": "/clips/sentences/s_what_did_you_tell_him.jpg"
+  },
+  {
+   "label": "s_what_do_you_do",
+   "text": "What do you do?",
+   "video": "/clips/sentences/s_what_do_you_do.mp4",
+   "poster": "/clips/sentences/s_what_do_you_do.jpg"
+  },
+  {
+   "label": "s_what_do_you_think",
+   "text": "What do you think?",
+   "video": "/clips/sentences/s_what_do_you_think.mp4",
+   "poster": "/clips/sentences/s_what_do_you_think.jpg"
+  },
+  {
+   "label": "s_what_do_you_want_to_become",
+   "text": "What do you want to become?",
+   "video": "/clips/sentences/s_what_do_you_want_to_become.mp4",
+   "poster": "/clips/sentences/s_what_do_you_want_to_become.jpg"
+  },
+  {
+   "label": "s_what_happened",
+   "text": "What happened?",
+   "video": "/clips/sentences/s_what_happened.mp4",
+   "poster": "/clips/sentences/s_what_happened.jpg"
+  },
+  {
+   "label": "s_what_have_you_planned_for_your_career",
+   "text": "What have you planned for your career?",
+   "video": "/clips/sentences/s_what_have_you_planned_for_your_career.mp4",
+   "poster": "/clips/sentences/s_what_have_you_planned_for_your_career.jpg"
+  },
+  {
+   "label": "s_what_is_your_phone_number",
+   "text": "What is your phone number?",
+   "video": "/clips/sentences/s_what_is_your_phone_number.mp4",
+   "poster": "/clips/sentences/s_what_is_your_phone_number.jpg"
+  },
+  {
+   "label": "s_what_you_want",
+   "text": "What you want?",
+   "video": "/clips/sentences/s_what_you_want.mp4",
+   "poster": "/clips/sentences/s_what_you_want.jpg"
+  },
+  {
+   "label": "s_when_will_the_train_leave",
+   "text": "When will the train leave?",
+   "video": "/clips/sentences/s_when_will_the_train_leave.mp4",
+   "poster": "/clips/sentences/s_when_will_the_train_leave.jpg"
+  },
+  {
+   "label": "s_where_are_you_from",
+   "text": "Where are you from?",
+   "video": "/clips/sentences/s_where_are_you_from.mp4",
+   "poster": "/clips/sentences/s_where_are_you_from.jpg"
+  },
+  {
+   "label": "s_which_collegeschool_are_you_from",
+   "text": "Which college/school are you from?",
+   "video": "/clips/sentences/s_which_collegeschool_are_you_from.mp4",
+   "poster": "/clips/sentences/s_which_collegeschool_are_you_from.jpg"
+  },
+  {
+   "label": "s_who_are_you",
+   "text": "Who are you?",
+   "video": "/clips/sentences/s_who_are_you.mp4",
+   "poster": "/clips/sentences/s_who_are_you.jpg"
+  },
+  {
+   "label": "s_why_are_you_angry",
+   "text": "Why are you angry?",
+   "video": "/clips/sentences/s_why_are_you_angry.mp4",
+   "poster": "/clips/sentences/s_why_are_you_angry.jpg"
+  },
+  {
+   "label": "s_why_are_you_crying",
+   "text": "Why are you crying?",
+   "video": "/clips/sentences/s_why_are_you_crying.mp4",
+   "poster": "/clips/sentences/s_why_are_you_crying.jpg"
+  },
+  {
+   "label": "s_why_are_you_disappointed",
+   "text": "Why are you disappointed?",
+   "video": "/clips/sentences/s_why_are_you_disappointed.mp4",
+   "poster": "/clips/sentences/s_why_are_you_disappointed.jpg"
+  },
+  {
+   "label": "s_you_are_bad",
+   "text": "You are bad.",
+   "video": "/clips/sentences/s_you_are_bad.mp4",
+   "poster": "/clips/sentences/s_you_are_bad.jpg"
+  },
+  {
+   "label": "s_you_are_good",
+   "text": "You are good.",
+   "video": "/clips/sentences/s_you_are_good.mp4",
+   "poster": "/clips/sentences/s_you_are_good.jpg"
+  },
+  {
+   "label": "s_you_are_welcome",
+   "text": "You are welcome.",
+   "video": "/clips/sentences/s_you_are_welcome.mp4",
+   "poster": "/clips/sentences/s_you_are_welcome.jpg"
+  },
+  {
+   "label": "s_you_can_do_it",
+   "text": "You can do it.",
+   "video": "/clips/sentences/s_you_can_do_it.mp4",
+   "poster": "/clips/sentences/s_you_can_do_it.jpg"
+  },
+  {
+   "label": "s_you_do_anything_i_do_not_care",
+   "text": "You do anything, I do not care.",
+   "video": "/clips/sentences/s_you_do_anything_i_do_not_care.mp4",
+   "poster": "/clips/sentences/s_you_do_anything_i_do_not_care.jpg"
+  },
+  {
+   "label": "s_you_need_a_medicine_take_this_one",
+   "text": "You need a medicine, take this one.",
+   "video": "/clips/sentences/s_you_need_a_medicine_take_this_one.mp4",
+   "poster": "/clips/sentences/s_you_need_a_medicine_take_this_one.jpg"
+  }
+ ],
+ "words": [
+  {
+   "label": "hello",
+   "text": "hello",
+   "video": "/clips/words/hello.mp4",
+   "poster": "/clips/words/hello.jpg"
+  },
+  {
+   "label": "how_are_you",
+   "text": "how are you",
+   "video": "/clips/words/how_are_you.mp4",
+   "poster": "/clips/words/how_are_you.jpg"
+  },
+  {
+   "label": "alright",
+   "text": "alright",
+   "video": "/clips/words/alright.mp4",
+   "poster": "/clips/words/alright.jpg"
+  },
+  {
+   "label": "good_morning",
+   "text": "good morning",
+   "video": "/clips/words/good_morning.mp4",
+   "poster": "/clips/words/good_morning.jpg"
+  },
+  {
+   "label": "good_afternoon",
+   "text": "good afternoon",
+   "video": "/clips/words/good_afternoon.mp4",
+   "poster": "/clips/words/good_afternoon.jpg"
+  },
+  {
+   "label": "good_evening",
+   "text": "good evening",
+   "video": "/clips/words/good_evening.mp4",
+   "poster": "/clips/words/good_evening.jpg"
+  },
+  {
+   "label": "good_night",
+   "text": "good night",
+   "video": "/clips/words/good_night.mp4",
+   "poster": "/clips/words/good_night.jpg"
+  },
+  {
+   "label": "thank_you",
+   "text": "thank you",
+   "video": "/clips/words/thank_you.mp4",
+   "poster": "/clips/words/thank_you.jpg"
+  },
+  {
+   "label": "pleased",
+   "text": "pleased",
+   "video": "/clips/words/pleased.mp4",
+   "poster": "/clips/words/pleased.jpg"
+  }
+ ],
+ "credits": {
+  "sentences": "ISL-CSLTR, Elakkiya R. & Natarajan B. (2021), Mendeley Data, doi:10.17632/kcmpdxky7p.1, CC BY 4.0",
+  "words": "INCLUDE, Sridhar et al. (2020), Zenodo, doi:10.5281/zenodo.4010759, CC BY 4.0"
+ }
+}

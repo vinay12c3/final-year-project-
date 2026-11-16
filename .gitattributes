@@ -1,0 +1,5 @@
+# Windows batch files must keep CRLF line endings or cmd.exe misreads them.
+*.bat text eol=crlf
+*.sh text eol=lf
+*.task binary
+*.pt binary

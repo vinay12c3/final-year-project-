@@ -1,0 +1,106 @@
+                                         precision    recall  f1-score   support
+
+                           (not a sign)     0.8462    0.5500    0.6667        20
+                    Are you free today?     1.0000    1.0000    1.0000         1
+              Are you hiding something?     0.0000    0.0000    0.0000         1
+                    Bring water for me.     0.0000    0.0000    0.0000         1
+                        Can I help you?     0.5000    0.5000    0.5000         2
+            Can you repeat that please?     0.0000    0.0000    0.0000         1
+                        Comb your hair.     0.5000    1.0000    0.6667         1
+                       Congratulations.     0.0000    0.0000    0.0000         1
+          Could you please talk slower?     0.5000    1.0000    0.6667         1
+                        Do me a favour.     0.0000    0.0000    0.0000         1
+                      Do not abuse him.     0.5000    1.0000    0.6667         1
+                    Do not be stubborn.     0.0000    0.0000    0.0000         1
+                        Do not hurt me.     1.0000    1.0000    1.0000         1
+                  Do not make me angry.     0.5000    1.0000    0.6667         1
+           Do not take it to the heart.     1.0000    1.0000    1.0000         1
+                          Do not worry.     0.0000    0.0000    0.0000         1
+                 Do you need something?     0.0000    0.0000    0.0000         1
+                          Go and sleep.     1.0000    0.5000    0.6667         2
+                         Had your food?     0.0000    0.0000    0.0000         1
+                      He came by train.     0.0000    0.0000    0.0000         1
+             He is going into the room.     0.0000    0.0000    0.0000         1
+                      He is on the way.     0.0000    0.0000    0.0000         1
+                   He/she is my friend.     1.0000    1.0000    1.0000         1
+              He would be coming today.     1.0000    1.0000    1.0000         1
+                               Help me.     1.0000    1.0000    1.0000         1
+                       Hi, how are you?     1.0000    1.0000    1.0000         1
+                        How are things?     0.0000    0.0000    0.0000         1
+                    How can I help you?     1.0000    1.0000    1.0000         1
+                   How can I trust you?     0.5000    1.0000    0.6667         1
+                          How dare you?     0.0000    0.0000    0.0000         1
+                       How old are you?     0.0000    0.0000    0.0000         1
+                   I am afraid of that.     1.0000    1.0000    1.0000         1
+                    I am ___ years old.     1.0000    1.0000    1.0000         1
+                           I am crying.     0.0000    0.0000    0.0000         1
+                    I am feeling bored.     0.0000    0.0000    0.0000         1
+                     I am feeling cold.     0.5000    1.0000    0.6667         1
+             I am fine. Thank you, sir.     0.0000    0.0000    0.0000         1
+                           I am hungry.     0.3333    1.0000    0.5000         1
+            I am in dilemma what to do.     0.0000    0.0000    0.0000         1
+                  I am not really sure.     1.0000    1.0000    1.0000         1
+                  I am really grateful.     0.0000    0.0000    0.0000         1
+             I am sitting in the class.     0.3333    1.0000    0.5000         1
+            I am so sorry to hear that.     1.0000    1.0000    1.0000         1
+             I am suffering from fever.     1.0000    1.0000    1.0000         1
+                            I am tired.     0.0000    0.0000    0.0000         1
+                       I am very happy.     0.0000    0.0000    0.0000         1
+              I can not help you there.     0.0000    0.0000    0.0000         1
+                        I do not agree.     0.0000    0.0000    0.0000         1
+                      I do not like it.     0.0000    0.0000    0.0000         1
+                      I do not mean it.     1.0000    1.0000    1.0000         1
+                       I enjoyed a lot.     0.0000    0.0000    0.0000         2
+                            I got hurt.     1.0000    1.0000    1.0000         1
+                I like you, I love you.     1.0000    0.5000    0.6667         2
+                          I need water.     1.0000    1.0000    1.0000         1
+                             I promise.     1.0000    1.0000    1.0000         1
+                I really appreciate it.     0.0000    0.0000    0.0000         1
+        I somehow got to know about it.     0.5000    1.0000    0.6667         1
+             I was stopped by some one.     0.0000    0.0000    0.0000         1
+ It does not make any difference to me.     0.0000    0.0000    0.0000         1
+         It was nice chatting with you.     0.0000    0.0000    0.0000         1
+                     Let him take time.     1.0000    1.0000    1.0000         1
+                         My name is ___     1.0000    1.0000    1.0000         1
+                      Nice to meet you.     0.0000    0.0000    0.0000         1
+    Now onwards he will never hurt you.     1.0000    1.0000    1.0000         1
+   Pour some more water into the glass.     0.0000    0.0000    0.0000         1
+                       Prepare the bed.     1.0000    1.0000    1.0000         1
+                        Serve the food.     0.0000    0.0000    0.0000         2
+                   Shall we go outside?     0.0000    0.0000    0.0000         1
+                          Speak softly.     0.2500    0.5000    0.3333         2
+                 Take care of yourself.     1.0000    1.0000    1.0000         1
+                         Tell me truth.     0.3333    1.0000    0.5000         1
+                     Thank you so much.     1.0000    1.0000    1.0000         1
+                That is so kind of you.     0.0000    0.0000    0.0000         1
+               This place is beautiful.     0.5000    1.0000    0.6667         1
+                     Try to understand.     1.0000    1.0000    1.0000         1
+Turn on the light / turn off the light.     1.0000    1.0000    1.0000         1
+                   We are all with you.     0.0000    0.0000    0.0000         1
+                        Wear the shirt.     0.5000    1.0000    0.6667         1
+                    What are you doing?     0.0000    0.0000    0.0000         1
+                 What did you tell him?     0.0000    0.0000    0.0000         1
+                        What do you do?     0.0000    0.0000    0.0000         1
+                     What do you think?     0.3333    1.0000    0.5000         1
+            What do you want to become?     0.0000    0.0000    0.0000         1
+                         What happened?     1.0000    1.0000    1.0000         1
+ What have you planned for your career?     0.0000    0.0000    0.0000         1
+             What is your phone number?     0.0000    0.0000    0.0000         1
+                         What you want?     0.5000    1.0000    0.6667         1
+             When will the train leave?     0.0000    0.0000    0.0000         1
+                    Where are you from?     0.0000    0.0000    0.0000         1
+     Which college/school are you from?     0.3333    1.0000    0.5000         1
+                           Who are you?     0.0000    0.0000    0.0000         1
+                     Why are you angry?     0.0000    0.0000    0.0000         1
+                    Why are you crying?     0.0000    0.0000    0.0000         1
+              Why are you disappointed?     1.0000    1.0000    1.0000         1
+                           You are bad.     0.0000    0.0000    0.0000         2
+                          You are good.     0.3333    1.0000    0.5000         1
+                       You are welcome.     0.0000    0.0000    0.0000         1
+                         You can do it.     0.0000    0.0000    0.0000         1
+        You do anything, I do not care.     0.0000    0.0000    0.0000         1
+    You need a medicine, take this one.     0.0000    0.0000    0.0000         1
+
+                               accuracy                         0.4603       126
+                              macro avg     0.3760    0.4555    0.3950       126
+                           weighted avg     0.4478    0.4603    0.4312       126

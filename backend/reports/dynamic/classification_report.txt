@@ -1,0 +1,15 @@
+                precision    recall  f1-score   support
+
+       alright     1.0000    0.7500    0.8571         4
+good afternoon     1.0000    0.7500    0.8571         4
+  good evening     1.0000    1.0000    1.0000         4
+  good morning     0.8000    1.0000    0.8889         4
+    good night     1.0000    1.0000    1.0000         4
+         hello     1.0000    1.0000    1.0000         4
+   how are you     1.0000    1.0000    1.0000         4
+       pleased     0.8000    1.0000    0.8889         4
+     thank you     1.0000    1.0000    1.0000         4
+
+      accuracy                         0.9444        36
+     macro avg     0.9556    0.9444    0.9436        36
+  weighted avg     0.9556    0.9444    0.9436        36

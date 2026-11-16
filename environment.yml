@@ -1,0 +1,25 @@
+# SignVision - one environment for backend, ML and the frontend build tools.
+# Create it once with:   conda env create -f environment.yml
+# Update it later with:  conda env update -f environment.yml --prune
+name: signvision
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - nodejs=20          # Node.js + npm for the React frontend (no separate install needed)
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cpu
+      - torch==2.15.0          # CPU build: no GPU required
+      - mediapipe==1.2.2       # hand landmark detection (bundles opencv-contrib-python)
+      - numpy==2.4.6
+      - scikit-learn==1.9.1
+      - pandas==3.1.1
+      - matplotlib==3.11.2
+      - seaborn==0.13.2
+      - fastapi==0.162.0
+      - uvicorn[standard]==0.54.0
+      - python-multipart==0.0.33
+      - sqlalchemy==2.1.8
+      - pyarrow==26.0.1            # reads the public dataset download (parquet)
+      - faster-whisper==1.2.1      # offline speech-to-text for Conversation (Whisper, MIT licence)

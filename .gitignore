@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Large raw downloads and personal recordings.
+# backend/data/processed/ (public datasets as hand landmarks, ~16 MB) IS kept in git.
+backend/data/raw/
+backend/data/own/
+backend/data/signvision.db
+
+# Speech model (downloaded by setup)
+backend/assets/whisper-base.en/
+
+# Training logs (metrics and figures ARE kept for the paper)
+backend/reports/*/train.log
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tunnel program for sharing rooms over the internet (downloaded by setup)
+backend/assets/cloudflared/
